@@ -1,4 +1,9 @@
-<html>
+<!DOCTYPE html>
+<html land="en">
+    <head>
+    <meta charset="UFT-8">
+    <title>Document<title>
+</head>
 <h1>nusa</h1>
 <h2>пограма для створеня сайтів<h2>
 <body>
@@ -19,3 +24,4 @@
 
 
 </html>
+
